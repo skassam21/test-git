@@ -2,3 +2,5 @@
 
 // New branch commit
 // Another line
+
+// Merge commit!
